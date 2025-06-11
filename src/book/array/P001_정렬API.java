@@ -13,8 +13,8 @@ public class P001_정렬API {
 		// 1.1 기본형 배열 : 오름차순만 지원
 		Arrays.sort(priArr);
 		Arrays.sort(priArr, 1, 3);	// fromIndex, toIndex 가능
-		Arrays.sort(priArr, Comparator.reverseOrder());	// 오름차순 외 Comparator 활용한 정렬 X
-		Arrays.sort(priArr, (o1, o2) -> o1 - o2);	// X (불가, 기본형 primitive type은 compare 메서드가 없으니)
+//		Arrays.sort(priArr, Comparator.reverseOrder());	// 오름차순 외 Comparator 활용한 정렬 X
+//		Arrays.sort(priArr, (o1, o2) -> o1 - o2);	// X (불가, 기본형 primitive type은 compare 메서드가 없으니)
 
 		// 1.2. 참조형 배열
 		Integer[] refArr = {1, 3, 2, 4};
