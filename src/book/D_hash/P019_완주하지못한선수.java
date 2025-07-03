@@ -1,6 +1,8 @@
 package book.D_hash;
 
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
 
 public class P019_완주하지못한선수 {
 
