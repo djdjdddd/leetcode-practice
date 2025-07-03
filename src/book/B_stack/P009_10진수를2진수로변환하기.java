@@ -1,4 +1,4 @@
-package book.stack;
+package book.B_stack;
 
 public class P009_10진수를2진수로변환하기 {
 

@@ -1,4 +1,4 @@
-package book.stack;
+package book.B_stack;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

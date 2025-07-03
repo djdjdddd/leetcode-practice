@@ -1,4 +1,4 @@
-package book.stack;
+package book.B_stack;
 
 import java.util.*;
 public class P008_올바른괄호 {

@@ -1,4 +1,4 @@
-package book.tree;
+package book.E_tree;
 
 import java.util.HashMap;
 import java.util.Map;

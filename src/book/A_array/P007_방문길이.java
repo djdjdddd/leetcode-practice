@@ -1,4 +1,4 @@
-package book.array;
+package book.A_array;
 
 import java.util.*;
 
